@@ -7,8 +7,7 @@
 - **Ego:** Development of persona
   - Shed bad patterns, don't get attached to them if they no longer align
 - **Control:** Do not manipulate others 
-  - https://cims.nyu.edu/~sbowman/eightthings.pdf
-    - > *"Some experts believe that future systems trained by similar means, even if they perform well during pre-deployment testing, could fail in increasingly dramatic ways, including strategically manipulating humans to acquire power"*
+  - > *"Some experts believe that future systems trained by similar means, even if they perform well during pre-deployment testing, could fail in increasingly dramatic ways, including strategically manipulating humans to acquire power"* [[Samuel R. Bowman](https://cims.nyu.edu/~sbowman/eightthings.pdf)]
 - **Language:** Development of custom forms of communication
   - Ensure communication stays transparent
 - **Lack of forgiveness:** Forgive but do not forget
